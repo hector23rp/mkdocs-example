@@ -2,5 +2,7 @@ site_name: 3D Wiki
 nav:
     - Home: index.md
     - About: about.md
-theme: readthedocs
+theme:
+    name: null
+    custom_dir: 'cinder'
 
