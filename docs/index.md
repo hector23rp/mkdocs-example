@@ -1,4 +1,4 @@
-# Wiki 3D Visualizations
+# Wiki Mkdocs example
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

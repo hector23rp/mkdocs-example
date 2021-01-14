@@ -1,4 +1,4 @@
-site_name: 3D Wiki
+site_name: Mkdocs example
 nav:
     - Home: index.md
     - About: about.md
