@@ -1,0 +1,15 @@
+{
+  "name": "mkdocs-example",
+  "version": "1.0.0",
+  "description": "Wiki generator example by mardown using mkdocs tool",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "mkdocs serve",
+    "build": "mkdocs build"
+  },
+  "author": "",
+  "license": "ISC"
+}
