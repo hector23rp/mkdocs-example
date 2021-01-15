@@ -19,3 +19,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 ## Configuration Example
 
 https://gitlab.com/alinex/alinex.gitlab.io/blob/master/mkdocs.yml
+## Themes list
+
+https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
