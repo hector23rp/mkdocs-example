@@ -1,6 +1,13 @@
 site_name: Mkdocs example
 nav:
-    - Home: index.md
+    - Home: 
+        - Home: index.md
+    - Nav1:
+        - Nav1: nav1.md
+        - Nav2:
+            - Nav2: nav2.md
+            - Nav3:
+                - Nav3: nav3.md
     - About: about.md
 theme: readthedocs
 
